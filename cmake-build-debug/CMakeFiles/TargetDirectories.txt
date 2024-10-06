@@ -1,0 +1,3 @@
+/Users/edoardobergamo/Desktop/Projects/LarningCpp/cmake-build-debug/CMakeFiles/LarningCpp.dir
+/Users/edoardobergamo/Desktop/Projects/LarningCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edoardobergamo/Desktop/Projects/LarningCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
